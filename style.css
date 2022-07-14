@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+  background-color: rgb(3, 205, 255);   
+  max-width: 98vw;  
+  max-height: 98vw;
+}
+img
+{
+    width: 50px;
+    height: 40px;
+}
+h1
+{
+    background-color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 55px;
+    width: 98.5vw;
+}
+h2
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+strong
+{
+    color: blue;
+    font-size: 25px;
+}
+.strong1
+{
+
+    color: navajowhite;
+    font-size: 25px;
+}
+p
+{
+   color: blue;
+   font-size: 25px;
+   text-align: center;
+   width: 40vw;
+   height: 
+}
+.p1
+{
+    color: blanchedalmond;
+    font-size: 25px;
+}
+.paragraph
+{
+    text-align:center;
+
+    font-family: cursive;
+    width: 30vw;
+    height: 40vw;
+}
+.paragraph1
+{
+    text-align:center;
+
+    font-family: cursive;
+    width: 100%;
+    height:  80%;
+  
+}
+.img
+{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-image: url(britain-web-studios.jpg);
+}
+.img1
+{
+    background-image: url(digital-html.jpg);
+    width: 100%;
+    max-height: 100%;
+    background-size: cover;
+}
